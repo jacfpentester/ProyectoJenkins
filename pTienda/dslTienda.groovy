@@ -17,6 +17,6 @@ job('Job-pTienda') {
     }
     
     steps {
-        shell("bash levantar.sh")
+        shell("bash install.sh")
     }
 }
