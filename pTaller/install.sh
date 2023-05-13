@@ -1,1 +1,1 @@
-echo "Ejecución de la Tarea Padre Taller"
+echo "Ejecución de la Tarea Padre   Taller"
